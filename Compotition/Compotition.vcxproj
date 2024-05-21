@@ -129,6 +129,9 @@
   <ItemGroup>
     <ClCompile Include="Compotition.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Jantung.h" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
