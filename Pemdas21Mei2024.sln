@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Pemdas21Mei2024", "Pemdas21
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Compotition", "Compotition\Compotition.vcxproj", "{474A1F1B-6A96-49C5-997B-B1A6AD67D561}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Agregation", "Agregation\Agregation.vcxproj", "{1327E0C6-2E61-4EF5-A9EB-A71E0F3A2C6C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{474A1F1B-6A96-49C5-997B-B1A6AD67D561}.Release|x64.Build.0 = Release|x64
 		{474A1F1B-6A96-49C5-997B-B1A6AD67D561}.Release|x86.ActiveCfg = Release|Win32
 		{474A1F1B-6A96-49C5-997B-B1A6AD67D561}.Release|x86.Build.0 = Release|Win32
+		{1327E0C6-2E61-4EF5-A9EB-A71E0F3A2C6C}.Debug|x64.ActiveCfg = Debug|x64
+		{1327E0C6-2E61-4EF5-A9EB-A71E0F3A2C6C}.Debug|x64.Build.0 = Debug|x64
+		{1327E0C6-2E61-4EF5-A9EB-A71E0F3A2C6C}.Debug|x86.ActiveCfg = Debug|Win32
+		{1327E0C6-2E61-4EF5-A9EB-A71E0F3A2C6C}.Debug|x86.Build.0 = Debug|Win32
+		{1327E0C6-2E61-4EF5-A9EB-A71E0F3A2C6C}.Release|x64.ActiveCfg = Release|x64
+		{1327E0C6-2E61-4EF5-A9EB-A71E0F3A2C6C}.Release|x64.Build.0 = Release|x64
+		{1327E0C6-2E61-4EF5-A9EB-A71E0F3A2C6C}.Release|x86.ActiveCfg = Release|Win32
+		{1327E0C6-2E61-4EF5-A9EB-A71E0F3A2C6C}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
